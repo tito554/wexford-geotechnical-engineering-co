@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Wexford
+
+> Geotechnical engineering services in Wexford, Ireland.
+
+## Services
+- [Anchors](https://wexford.geotechnical-engineering.co/anchors/)
+- [Atterberg Limits](https://wexford.geotechnical-engineering.co/atterberg-limits/)
+- [Cbr Road](https://wexford.geotechnical-engineering.co/cbr-road/)
+- [Cpt Test](https://wexford.geotechnical-engineering.co/cpt-test/)
+- [Deep Excavations](https://wexford.geotechnical-engineering.co/deep-excavations/)
+- [Excavation Monitoring](https://wexford.geotechnical-engineering.co/excavation-monitoring/)
+- [Excavations](https://wexford.geotechnical-engineering.co/excavations/)
+- [Flexible Pavement](https://wexford.geotechnical-engineering.co/flexible-pavement/)
+- [Footings](https://wexford.geotechnical-engineering.co/footings/)
+- [Foundations](https://wexford.geotechnical-engineering.co/foundations/)
+- [Grain Size](https://wexford.geotechnical-engineering.co/grain-size/)
+- [Ground Improvement](https://wexford.geotechnical-engineering.co/ground-improvement/)
+- [Grouting](https://wexford.geotechnical-engineering.co/grouting/)
+- [In Situ Permeability](https://wexford.geotechnical-engineering.co/in-situ-permeability/)
+- [Investigation](https://wexford.geotechnical-engineering.co/investigation/)
+- [Lab In Situ](https://wexford.geotechnical-engineering.co/lab-in-situ/)
+- [Laboratory](https://wexford.geotechnical-engineering.co/laboratory/)
+- [Liquefaction](https://wexford.geotechnical-engineering.co/liquefaction/)
+- [Masw](https://wexford.geotechnical-engineering.co/masw/)
+- [Mat Foundations](https://wexford.geotechnical-engineering.co/mat-foundations/)
+- [Piles](https://wexford.geotechnical-engineering.co/piles/)
+- [Proctor Tests](https://wexford.geotechnical-engineering.co/proctor-tests/)
+- [Resistivity](https://wexford.geotechnical-engineering.co/resistivity/)
+- [Retaining Walls](https://wexford.geotechnical-engineering.co/retaining-walls/)
+- [Rigid Pavement](https://wexford.geotechnical-engineering.co/rigid-pavement/)
+- [Road Geotechnics](https://wexford.geotechnical-engineering.co/road-geotechnics/)
+- [Sand Cone Density](https://wexford.geotechnical-engineering.co/sand-cone-density/)
+- [Seismic](https://wexford.geotechnical-engineering.co/seismic/)
+- [Seismic Isolation](https://wexford.geotechnical-engineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://wexford.geotechnical-engineering.co/seismic-microzonation/)
+- [Seismic Refraction](https://wexford.geotechnical-engineering.co/seismic-refraction/)
+- [Slope Stability](https://wexford.geotechnical-engineering.co/slope-stability/)
+- [Slopes](https://wexford.geotechnical-engineering.co/slopes/)
+- [Soft Ground Tunnels](https://wexford.geotechnical-engineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://wexford.geotechnical-engineering.co/spt-drilling/)
+- [Stone Columns](https://wexford.geotechnical-engineering.co/stone-columns/)
+- [Test Pits](https://wexford.geotechnical-engineering.co/test-pits/)
+- [Triaxial](https://wexford.geotechnical-engineering.co/triaxial/)
+- [Vibrocompaction](https://wexford.geotechnical-engineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://wexford.geotechnical-engineering.co/
+
+## About
+This site provides geotechnical engineering services in Wexford, Ireland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
